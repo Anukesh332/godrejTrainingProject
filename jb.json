@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": "1234",
+      "type": "Engineer",
+      "name": "Anukesh Sonawane",
+      "ppu": "Godrej Employee"
+    },
+    {
+      "id": "18",
+      "type": "Cricketer",
+      "name": "Virat Kohli",
+      "ppu": "Player"
+    }
+  ],
+  "comments": {
+    "id": "1",
+    "name": "Steve Smith",
+    "comment": "Wow"
+  }
+}
